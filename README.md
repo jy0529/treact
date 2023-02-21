@@ -1,2 +1,2 @@
 # treact
-demo fork by https://github.com/pomber/didact
+modular demo learning by https://github.com/pomber/didact

@@ -9,4 +9,5 @@ function Counter() {
     }, 'Count' + state + name);
 }
 
+
 TReact.render(TReact.createElement(Counter), document.getElementById('root'));
